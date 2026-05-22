@@ -1,11 +1,7 @@
 <!--
-Replace the placeholder contact links below before publishing:
-- LinkedIn
-- Email
-- Portfolio
-- LeetCode
-
-If your project repo or live-demo URLs differ, update the featured project buttons.
+Resume-aligned profile README for Chaitanya Jhindal.
+Public contact keeps email and social links visible.
+Phone number from the resume is intentionally not published here by default.
 -->
 
 <p align="center">
@@ -13,39 +9,36 @@ If your project repo or live-demo URLs differ, update the featured project butto
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=2600&pause=900&color=8B5CF6&center=true&vCenter=true&width=1100&lines=AI%2FML+Engineer+building+production-ready+intelligence;GenAI+%7C+Computer+Vision+%7C+RAG+Systems+%7C+MLOps;Full+Stack+builder+with+startup+speed+and+systems+thinking" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=900&color=8B5CF6&center=true&vCenter=true&width=1100&lines=Generative+AI+Engineer;LLM-powered+applications+%7C+Multimodal+RAG+%7C+AI+Agents;Fine-Tuning+%7C+FastAPI+%7C+Vector+Databases+%7C+Full-Stack+AI" alt="Typing animation" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ChaitanyaJhindal&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/ChaitanyaJhindal?style=for-the-badge&logo=github&label=FOLLOWERS&color=06B6D4" alt="GitHub followers" />
-  <img src="https://img.shields.io/badge/FOCUS-Shipping%20AI%20Products-111827?style=for-the-badge&logo=openai&logoColor=7dd3fc&labelColor=0f172a&color=1e293b" alt="Shipping AI products" />
+  <img src="https://img.shields.io/badge/LOCATION-Gurugram%2C%20India-111827?style=for-the-badge&labelColor=020617&color=1f2937" alt="Location" />
+  <img src="https://img.shields.io/badge/FOCUS-Generative%20AI-082f49?style=for-the-badge&logo=openai&logoColor=7dd3fc&labelColor=0c4a6e&color=155e75" alt="Generative AI" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ChaitanyaJhindal">
-    <img src="https://img.shields.io/badge/GitHub-ChaitanyaJhindal-0f172a?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=020617&color=111827" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-ChaitanyaJhindal-111827?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=020617&color=1f2937" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-handle/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/chaitanya-jhindal-636b23289/">
+    <img src="https://img.shields.io/badge/LinkedIn-Chaitanya%20Jhindal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-Write%20to%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="mailto:chaitanyajhindal.fl@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-chaitanyajhindal.fl%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://your-portfolio.dev/">
-    <img src="https://img.shields.io/badge/Portfolio-Live%20Site-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://leetcode.com/u/your-leetcode-handle/">
-    <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  <a href="https://x.com/ChaitanyJhindal">
+    <img src="https://img.shields.io/badge/X-@ChaitanyJhindal-0f172a?style=for-the-badge&logo=x&logoColor=white&labelColor=020617&color=111827" alt="X" />
   </a>
 </p>
 
 <p align="center">
-  <strong>Chaitanya Jhindal</strong> · <code>@ChaitanyaJhindal</code> · Building AI systems that move from experiment to product
+  <strong>Chaitanya Jhindal</strong> | <code>@ChaitanyaJhindal</code> | Generative AI Engineer
 </p>
 
 <p align="center">
-  Futuristic AI engineer with founder energy, production focus, and a bias for shipping clean systems that recruiters, collaborators, and teams can trust.
+  Building LLM-powered applications, multimodal RAG systems, AI agents, and production-ready AI workflows with Python, FastAPI, vector databases, and modern full-stack tooling.
 </p>
 
 <p align="center">
@@ -57,33 +50,67 @@ If your project repo or live-demo URLs differ, update the featured project butto
 <table>
   <tr>
     <td width="58%" valign="top">
-      <strong>Mission Brief</strong><br /><br />
-      I am a <strong>BTech student</strong> and <strong>AI Engineer</strong> focused on building production-ready AI systems across <strong>GenAI</strong>, <strong>Computer Vision</strong>, <strong>Full Stack</strong>, and <strong>DevOps</strong>.<br /><br />
-      I like systems that feel useful on day one: RAG chatbots, multimodal pipelines, ML forecasting engines, and backend workflows that scale beyond the demo stage.<br /><br />
-      Outside code, I am a <strong>district-level badminton player</strong>, which shows up in how I work: fast feet, high discipline, and calm under pressure.
+      <strong>Professional Summary</strong><br /><br />
+      Results-driven <strong>Generative AI Engineer</strong> focused on LLM-powered applications, multimodal RAG systems, AI agents, and scalable AI-driven platforms.<br /><br />
+      My work sits at the intersection of <strong>applied AI</strong>, <strong>automation</strong>, and <strong>cloud-ready engineering</strong>, with hands-on experience in FastAPI backends, retrieval systems, structured AI workflows, and modern full-stack delivery.<br /><br />
+      I am currently pursuing <strong>B.Tech in Computer Science & Engineering</strong> at <strong>BML Munjal University</strong>, while building real systems for healthcare, university knowledge retrieval, forecasting, and customer support use cases.
     </td>
     <td width="42%" valign="top">
-      <pre lang="yaml">current_mode:
-  role: AI Engineer
-  status: Building production-ready AI systems
-  interests:
-    - GenAI
-    - scalable systems
-    - multimodal interfaces
-    - developer tooling
-  mindset: open-source first
-  vibe: startup founder energy</pre>
-
-  </td>
+      <pre lang="yaml">profile:
+  title: Generative AI Engineer
+  location: Gurugram, India
+  education: B.Tech CSE, BML Munjal University
+  graduation: 2027
+  strengths:
+    - LLM applications
+    - multimodal RAG
+    - AI agents
+    - fine-tuning
+    - FastAPI systems
+  languages:
+    - English
+    - Hindi</pre>
+    </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20Engineer-1e1b4b?style=for-the-badge&logo=tensorflow&logoColor=ffffff&labelColor=0f172a&color=312e81" alt="AI Engineer" />
-  <img src="https://img.shields.io/badge/Open%20Source%20Enthusiast-082f49?style=for-the-badge&logo=github&logoColor=7dd3fc&labelColor=0c4a6e&color=155e75" alt="Open Source Enthusiast" />
-  <img src="https://img.shields.io/badge/BTech%20Student-0f172a?style=for-the-badge&logo=googlescholar&logoColor=93c5fd&labelColor=020617&color=111827" alt="BTech Student" />
-  <img src="https://img.shields.io/badge/Badminton%20Athlete-0f172a?style=for-the-badge&labelColor=020617&color=111827" alt="Badminton Athlete" />
+  <img src="https://img.shields.io/badge/LLM%20Applications-1e1b4b?style=for-the-badge&logo=openai&logoColor=ffffff&labelColor=0f172a&color=312e81" alt="LLM Applications" />
+  <img src="https://img.shields.io/badge/Multimodal%20RAG-082f49?style=for-the-badge&logoColor=67e8f9&labelColor=0c4a6e&color=155e75" alt="Multimodal RAG" />
+  <img src="https://img.shields.io/badge/AI%20Agents-0f172a?style=for-the-badge&labelColor=020617&color=111827" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/Fine--Tuning-111827?style=for-the-badge&logo=huggingface&logoColor=facc15&labelColor=020617&color=1f2937" alt="Fine Tuning" />
 </p>
+
+<p align="center">
+  <img src="./assets/neon-divider.svg" alt="Neon divider" width="100%" />
+</p>
+
+## Experience
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>AI & Research Trainee</strong><br />
+      <code>Institute of Innovation & Entrepreneurship (I2E), BMU</code><br />
+      <sub>Sep 2025 - Apr 2026 | On-site | Gurugram</sub><br /><br />
+      - Conducted deep-tech market research and startup ecosystem analysis using AI-driven workflows.<br />
+      - Built structured investor and startup databases by scraping and analyzing <strong>5,000+ investor records</strong>.<br />
+      - Identified <strong>30 high-potential investors</strong> from 5,000+ profiles, cutting manual filtering by <strong>99%</strong> and saving <strong>60+ hours</strong>.<br />
+      - Automated outreach and competitive benchmarking for emerging AI and deep-tech ventures.<br /><br />
+      <strong>Stack:</strong> Python, Pandas, BeautifulSoup, Selenium, Excel, SQL, Data Analytics
+    </td>
+    <td width="50%" valign="top">
+      <strong>Machine Learning Engineer Intern</strong><br />
+      <code>TechBrawn IT Solutions</code><br />
+      <sub>May 2025 - Jul 2025 | On-site | Gurugram</sub><br /><br />
+      - Developed <strong>XGBoost-based sales forecasting</strong> models on <strong>100K+ SAP ERP records</strong>.<br />
+      - Performed preprocessing, feature engineering, and exploratory analysis on large enterprise datasets.<br />
+      - Built analytics workflows and automated reporting pipelines to reduce manual analysis effort.<br />
+      - Contributed to AI-driven forecasting and business intelligence solutions for structured ERP data.<br /><br />
+      <strong>Stack:</strong> Python, XGBoost, Pandas, NumPy, Scikit-learn, SQL, Streamlit, SAP ERP
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="./assets/neon-divider.svg" alt="Neon divider" width="100%" />
@@ -93,42 +120,145 @@ If your project repo or live-demo URLs differ, update the featured project butto
 
 <table>
   <tr>
-    <td width="18%"><strong>Frontend</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind&theme=dark" alt="Frontend stack" /></td>
+    <td width="18%"><strong>Programming</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=python,js,ts&theme=dark" alt="Programming languages" /></td>
   </tr>
   <tr>
-    <td><strong>Backend</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,flask&theme=dark" alt="Backend stack" /></td>
-  </tr>
-  <tr>
-    <td><strong>AI/ML</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,scikitlearn&theme=dark" alt="AI and ML stack" /></td>
-  </tr>
-  <tr>
-    <td><strong>DevOps</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,linux,bash&theme=dark" alt="DevOps stack" /></td>
+    <td><strong>Frameworks</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" alt="Framework stack" /></td>
   </tr>
   <tr>
     <td><strong>Databases</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase&theme=dark" alt="Database stack" /></td>
-  </tr>
-  <tr>
-    <td><strong>Cloud</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=aws,gcp,vercel,netlify&theme=dark" alt="Cloud stack" /></td>
+    <td><img src="https://skillicons.dev/icons?i=postgresql,mongodb,firebase,supabase&theme=dark" alt="Database stack" /></td>
   </tr>
   <tr>
     <td><strong>Tools</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark" alt="Tools stack" /></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,githubactions,git,github,postman&theme=dark" alt="Tools and platforms" /></td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LangChain-0f172a?style=flat-square&logo=chainlink&logoColor=7dd3fc&labelColor=020617&color=111827" alt="LangChain" />
-  <img src="https://img.shields.io/badge/RAG-1e1b4b?style=flat-square&logo=openai&logoColor=ffffff&labelColor=0f172a&color=312e81" alt="RAG" />
-  <img src="https://img.shields.io/badge/MLOps-082f49?style=flat-square&labelColor=0c4a6e&color=155e75" alt="MLOps" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-0f172a?style=flat-square&logo=opencv&logoColor=5eead4&labelColor=020617&color=111827" alt="Computer Vision" />
-  <img src="https://img.shields.io/badge/GenAI-111827?style=flat-square&logo=googlegemini&logoColor=93c5fd&labelColor=020617&color=1f2937" alt="GenAI" />
+  <img src="https://img.shields.io/badge/LangChain-111827?style=flat-square&logoColor=7dd3fc&labelColor=020617&color=1f2937" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-1e1b4b?style=flat-square&labelColor=0f172a&color=312e81" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/LangSmith-082f49?style=flat-square&labelColor=0c4a6e&color=155e75" alt="LangSmith" />
+  <img src="https://img.shields.io/badge/Hugging%20Face%20Transformers-111827?style=flat-square&logo=huggingface&logoColor=facc15&labelColor=020617&color=1f2937" alt="Transformers" />
+  <img src="https://img.shields.io/badge/Unsloth-0f172a?style=flat-square&labelColor=020617&color=111827" alt="Unsloth" />
+  <img src="https://img.shields.io/badge/ChromaDB-1e1b4b?style=flat-square&labelColor=0f172a&color=312e81" alt="ChromaDB" />
+  <img src="https://img.shields.io/badge/Pinecone-082f49?style=flat-square&labelColor=0c4a6e&color=155e75" alt="Pinecone" />
+  <img src="https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=38bdf8&labelColor=020617&color=1f2937" alt="Docker" />
 </p>
+
+<p align="center">
+  <img src="./assets/neon-divider.svg" alt="Neon divider" width="100%" />
+</p>
+
+## Impact Snapshot
+
+<p align="center">
+  <img src="https://img.shields.io/badge/1200%2B-BMU%20webpages%20queried-1e1b4b?style=for-the-badge&labelColor=0f172a&color=312e81" alt="1200 plus webpages" />
+  <img src="https://img.shields.io/badge/10--14x-Vector%20storage%20reduction-082f49?style=for-the-badge&labelColor=0c4a6e&color=155e75" alt="Storage reduction" />
+  <img src="https://img.shields.io/badge/81%25-Top--1%20retrieval%20accuracy-0f172a?style=for-the-badge&labelColor=020617&color=111827" alt="Top 1 retrieval" />
+  <img src="https://img.shields.io/badge/0.87-AUC%20score-111827?style=for-the-badge&labelColor=020617&color=1f2937" alt="AUC score" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/23%2B-Languages%20supported-1e1b4b?style=for-the-badge&labelColor=0f172a&color=312e81" alt="Languages supported" />
+  <img src="https://img.shields.io/badge/100K%2B-SAP%20ERP%20records-082f49?style=for-the-badge&labelColor=0c4a6e&color=155e75" alt="ERP records" />
+  <img src="https://img.shields.io/badge/5000%2B-Investor%20profiles%20analyzed-0f172a?style=for-the-badge&labelColor=020617&color=111827" alt="Investor profiles" />
+  <img src="https://img.shields.io/badge/99%25-Manual%20filtering%20reduced-111827?style=for-the-badge&labelColor=020617&color=1f2937" alt="Manual filtering reduced" />
+</p>
+
+<p align="center">
+  <img src="./assets/neon-divider.svg" alt="Neon divider" width="100%" />
+</p>
+
+## Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>CampusGPT</strong><br />
+      <code>Hybrid RAG Chatbot for University Knowledge Retrieval</code><br /><br />
+      Developed a Hybrid RAG chatbot for intelligent querying across <strong>1200+ BMU webpages</strong> using semantic and keyword-based retrieval.<br /><br />
+      <strong>Architecture</strong><br />
+      <code>web crawl -> cleaning -> MiniLM summaries -> hybrid retrieval -> ChromaDB -> grounded answers</code><br /><br />
+      <strong>Highlights</strong><br />
+      - MiniLM-based extractive summarization with cosine ranking and redundancy removal.<br />
+      - <strong>10-14x reduction</strong> in vector storage.<br />
+      - <strong>81% Top-1 Retrieval Accuracy</strong> and <strong>0.87 AUC</strong>.<br /><br />
+      <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=ffde57&labelColor=020617&color=1f2937" alt="Python" />
+      <img src="https://img.shields.io/badge/FastAPI-082f49?style=flat-square&logo=fastapi&logoColor=67e8f9&labelColor=0c4a6e&color=155e75" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/MiniLM-1e1b4b?style=flat-square&labelColor=0f172a&color=312e81" alt="MiniLM" />
+      <img src="https://img.shields.io/badge/ChromaDB-111827?style=flat-square&labelColor=020617&color=1f2937" alt="ChromaDB" />
+      <img src="https://img.shields.io/badge/GPT%20OSS%20120B-0f172a?style=flat-square&labelColor=020617&color=111827" alt="GPT OSS 120B" /><br /><br />
+      <a href="https://github.com/ChaitanyaJhindal/BMU_WEBSITE_CHATBOT">
+        <img src="https://img.shields.io/badge/GitHub-View%20Repo-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=020617&color=1f2937" alt="CampusGPT repo" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <strong>SehatSaathi</strong><br />
+      <code>AI-Powered Clinical Documentation and Healthcare Assistant</code><br /><br />
+      Built an AI healthcare assistant that converts doctor-patient consultation audio into structured clinical reports using speech-to-text and LLM-based medical reasoning.<br /><br />
+      <strong>Architecture</strong><br />
+      <code>consultation audio -> STT -> speaker diarization -> LLM reasoning -> structured report -> PDF + app delivery</code><br /><br />
+      <strong>Highlights</strong><br />
+      - Multilingual pipeline supporting <strong>23+ languages</strong>.<br />
+      - Speaker diarization for up to <strong>8 speakers</strong>.<br />
+      - Structured clinical reports and PDFs generated in <strong>under 10 seconds</strong>.<br /><br />
+      <img src="https://img.shields.io/badge/FastAPI-082f49?style=flat-square&logo=fastapi&logoColor=67e8f9&labelColor=0c4a6e&color=155e75" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/React%20Native-111827?style=flat-square&logo=react&logoColor=61dafb&labelColor=020617&color=1f2937" alt="React Native" />
+      <img src="https://img.shields.io/badge/MongoDB-1e1b4b?style=flat-square&logo=mongodb&logoColor=52b788&labelColor=0f172a&color=312e81" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/Twilio%20WhatsApp-0f172a?style=flat-square&logo=twilio&logoColor=f43f5e&labelColor=020617&color=111827" alt="Twilio WhatsApp" /><br /><br />
+      <a href="https://github.com/ChaitanyaJhindal/SehatSaathi_v2">
+        <img src="https://img.shields.io/badge/GitHub-View%20Repo-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=020617&color=1f2937" alt="SehatSaathi repo" />
+      </a>
+      <a href="https://expo.dev/accounts/chaitanyajhindal/projects/sehatsaathi/builds/bf8a49bd-a852-4980-b51d-28885b44c7f6">
+        <img src="https://img.shields.io/badge/Live%20Link-Open%20Build-7C3AED?style=for-the-badge&logo=expo&logoColor=white" alt="SehatSaathi live link" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Intelligent Customer Support Chatbot for E-Commerce</strong><br />
+      <code>Hybrid RAG + Fine-Tuned LLM Support System</code><br /><br />
+      Built a production-ready AI support chatbot using <strong>Hybrid RAG</strong>, <strong>fine-tuned Gemma 2B</strong>, and <strong>GPT OSS 120B</strong> for e-commerce query resolution.<br /><br />
+      <strong>Architecture</strong><br />
+      <code>user query -> hybrid retrieval -> ChromaDB + MongoDB context -> MCP orchestration -> structured AI response</code><br /><br />
+      <strong>Highlights</strong><br />
+      - MCP-based orchestration with <strong>100% schema compliance</strong>.<br />
+      - Lightweight guardrails for harmful and off-topic queries with <strong>sub-millisecond latency</strong>.<br />
+      - Evaluated across 10 support scenarios with <strong>27.33% ROUGE-1 F1</strong> and <strong>74.17% keyword recall</strong>.<br /><br />
+      <img src="https://img.shields.io/badge/FastAPI-082f49?style=flat-square&logo=fastapi&logoColor=67e8f9&labelColor=0c4a6e&color=155e75" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/MCP-1e1b4b?style=flat-square&labelColor=0f172a&color=312e81" alt="MCP" />
+      <img src="https://img.shields.io/badge/Gemma%202B-111827?style=flat-square&labelColor=020617&color=1f2937" alt="Gemma 2B" />
+      <img src="https://img.shields.io/badge/QLoRA-0f172a?style=flat-square&labelColor=020617&color=111827" alt="QLoRA" /><br /><br />
+      <a href="https://github.com/ChaitanyaJhindal?tab=repositories">
+        <img src="https://img.shields.io/badge/GitHub-Browse%20Code-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=020617&color=1f2937" alt="Browse GitHub code" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <strong>Applied ML Forecasting</strong><br />
+      <code>XGBoost Sales Forecasting on SAP ERP Data</code><br /><br />
+      Built forecasting models on <strong>100K+ SAP ERP records</strong> to support demand prediction, business decision-making, and enterprise analytics workflows.<br /><br />
+      <strong>Architecture</strong><br />
+      <code>ERP data -> preprocessing -> feature engineering -> XGBoost -> analytics pipeline -> reporting</code><br /><br />
+      <strong>Highlights</strong><br />
+      - Large-scale preprocessing and feature engineering on structured business data.<br />
+      - Automated reporting to reduce manual analysis and surface faster insights.<br />
+      - Delivered an AI-driven forecasting workflow tied to practical business intelligence use cases.<br /><br />
+      <img src="https://img.shields.io/badge/XGBoost-082f49?style=flat-square&labelColor=0c4a6e&color=155e75" alt="XGBoost" />
+      <img src="https://img.shields.io/badge/Pandas-1e1b4b?style=flat-square&logo=pandas&logoColor=ffffff&labelColor=0f172a&color=312e81" alt="Pandas" />
+      <img src="https://img.shields.io/badge/SQL-111827?style=flat-square&logoColor=7dd3fc&labelColor=020617&color=1f2937" alt="SQL" />
+      <img src="https://img.shields.io/badge/Streamlit-0f172a?style=flat-square&logo=streamlit&logoColor=ff4b4b&labelColor=020617&color=111827" alt="Streamlit" /><br /><br />
+      <a href="https://github.com/ChaitanyaJhindal/Sales_prediction_bot">
+        <img src="https://img.shields.io/badge/GitHub-View%20Repo-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=020617&color=1f2937" alt="Forecasting repo" />
+      </a>
+      <a href="https://salespredictionbot-n4c8qgdbzoxamf3ivhnleg.streamlit.app/">
+        <img src="https://img.shields.io/badge/Live%20App-Open%20Demo-7C3AED?style=for-the-badge&logo=streamlit&logoColor=white" alt="Forecasting live app" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="./assets/neon-divider.svg" alt="Neon divider" width="100%" />
@@ -159,79 +289,23 @@ If your project repo or live-demo URLs differ, update the featured project butto
   <img src="./assets/neon-divider.svg" alt="Neon divider" width="100%" />
 </p>
 
-## Featured Projects
+## Education
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <strong>SehatSaathi</strong><br />
-      <code>AI Healthcare Chatbot</code><br /><br />
-      AI healthcare assistant built for retrieval-grounded conversations, fast context lookup, and a more product-ready health support experience.<br /><br />
-      <strong>Architecture</strong><br />
-      <code>Documents -> embeddings -> retriever -> LLM reasoning -> healthcare responses</code><br /><br />
-      <img src="https://img.shields.io/badge/RAG-1e1b4b?style=flat-square&logo=openai&logoColor=white&labelColor=0f172a&color=312e81" alt="RAG" />
-      <img src="https://img.shields.io/badge/LLMs-082f49?style=flat-square&logo=openai&logoColor=7dd3fc&labelColor=0c4a6e&color=155e75" alt="LLMs" />
-      <img src="https://img.shields.io/badge/React%20Native-111827?style=flat-square&logo=react&logoColor=61dafb&labelColor=020617&color=1f2937" alt="React Native" />
-      <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=ffde57&labelColor=020617&color=1f2937" alt="Python" /><br /><br />
-      <a href="https://github.com/ChaitanyaJhindal/SehatSaathi_v2">
-        <img src="https://img.shields.io/badge/GitHub-View%20Repo-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=020617&color=1f2937" alt="SehatSaathi repo" />
-      </a>
-      <a href="#">
-        <img src="https://img.shields.io/badge/Deploy-Live%20Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="SehatSaathi live demo placeholder" />
-      </a>
+      <strong>B.Tech in Computer Science & Engineering</strong><br />
+      <code>BML Munjal University</code><br />
+      <sub>2023 - 2027 | CGPA: 7.8 / 10</sub><br /><br />
+      <strong>Relevant Coursework</strong><br />
+      Data Structures and Algorithms, Machine Learning, Artificial Intelligence, Database Management Systems, Operating Systems, System Design
     </td>
     <td width="50%" valign="top">
-      <strong>Sign Language Converter</strong><br />
-      <code>Real-time Multimodal Interface</code><br /><br />
-      Real-time sign language translation workflow with production-facing UI patterns and a strong base for chatbot-assisted accessibility experiences.<br /><br />
-      <strong>Architecture</strong><br />
-      <code>Camera or video -> sign parsing -> translation layer -> text output -> assistive response</code><br /><br />
-      <img src="https://img.shields.io/badge/Computer%20Vision-0f172a?style=flat-square&logo=opencv&logoColor=5eead4&labelColor=020617&color=111827" alt="Computer Vision" />
-      <img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178c6&labelColor=020617&color=1f2937" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/Accessibility-082f49?style=flat-square&logo=w3c&logoColor=67e8f9&labelColor=0c4a6e&color=155e75" alt="Accessibility" />
-      <img src="https://img.shields.io/badge/Realtime-1e1b4b?style=flat-square&labelColor=0f172a&color=312e81" alt="Realtime" /><br /><br />
-      <a href="https://github.com/ChaitanyaJhindal/texttosign">
-        <img src="https://img.shields.io/badge/GitHub-View%20Repo-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=020617&color=1f2937" alt="Sign Language repo" />
-      </a>
-      <a href="#">
-        <img src="https://img.shields.io/badge/Deploy-Live%20Demo-7C3AED?style=for-the-badge&logo=netlify&logoColor=white" alt="Sign Language live demo placeholder" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>Hybrid RAG Chatbot</strong><br />
-      <code>BMU Website Intelligence Layer</code><br /><br />
-      Hybrid summarization and retrieval workflow for the BMU website using cleaned page content, embeddings, and compact context construction for better answers.<br /><br />
-      <strong>Architecture</strong><br />
-      <code>Sitemap crawl -> cleaning -> dense summaries -> vector DB -> retrieval -> answer generation</code><br /><br />
-      <img src="https://img.shields.io/badge/RAG-1e1b4b?style=flat-square&logo=openai&logoColor=white&labelColor=0f172a&color=312e81" alt="RAG" />
-      <img src="https://img.shields.io/badge/Embeddings-082f49?style=flat-square&labelColor=0c4a6e&color=155e75" alt="Embeddings" />
-      <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=ffde57&labelColor=020617&color=1f2937" alt="Python" />
-      <img src="https://img.shields.io/badge/Chroma-0f172a?style=flat-square&logoColor=white&labelColor=020617&color=111827" alt="Chroma" /><br /><br />
-      <a href="https://github.com/ChaitanyaJhindal/BMU_WEBSITE_CHATBOT">
-        <img src="https://img.shields.io/badge/GitHub-View%20Repo-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=020617&color=1f2937" alt="Hybrid RAG repo" />
-      </a>
-      <a href="#">
-        <img src="https://img.shields.io/badge/Deploy-Case%20Study-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Hybrid RAG case study placeholder" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <strong>AI Forecasting System</strong><br />
-      <code>Enterprise Sales Prediction</code><br /><br />
-      Forecasting system powered by XGBoost and natural-language querying for ERP-style sales data, tuned for explainability and practical business use.<br /><br />
-      <strong>Architecture</strong><br />
-      <code>ERP sales data -> feature engineering -> XGBoost -> GPT query layer -> forecast response</code><br /><br />
-      <img src="https://img.shields.io/badge/XGBoost-0f172a?style=flat-square&logoColor=white&labelColor=020617&color=111827" alt="XGBoost" />
-      <img src="https://img.shields.io/badge/Forecasting-082f49?style=flat-square&logo=plotly&logoColor=67e8f9&labelColor=0c4a6e&color=155e75" alt="Forecasting" />
-      <img src="https://img.shields.io/badge/OpenAI-1e1b4b?style=flat-square&logo=openai&logoColor=ffffff&labelColor=0f172a&color=312e81" alt="OpenAI" />
-      <img src="https://img.shields.io/badge/Streamlit-111827?style=flat-square&logo=streamlit&logoColor=ff4b4b&labelColor=020617&color=1f2937" alt="Streamlit" /><br /><br />
-      <a href="https://github.com/ChaitanyaJhindal/Sales_prediction_bot">
-        <img src="https://img.shields.io/badge/GitHub-View%20Repo-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=020617&color=1f2937" alt="Forecasting repo" />
-      </a>
-      <a href="https://salespredictionbot-n4c8qgdbzoxamf3ivhnleg.streamlit.app/">
-        <img src="https://img.shields.io/badge/Deploy-Live%20App-7C3AED?style=for-the-badge&logo=streamlit&logoColor=white" alt="Forecasting live app" />
-      </a>
+      <strong>Academic Snapshot</strong><br /><br />
+      - Class 12th (CBSE), Science Stream: <strong>82%</strong><br />
+      - Class 10th (CBSE): <strong>91%</strong><br />
+      - Languages: <strong>English, Hindi</strong><br />
+      - Soft Skills: <strong>Leadership, Teamwork, Critical Thinking, Problem Solving</strong>
     </td>
   </tr>
 </table>
@@ -240,47 +314,26 @@ If your project repo or live-demo URLs differ, update the featured project butto
   <img src="./assets/neon-divider.svg" alt="Neon divider" width="100%" />
 </p>
 
-## Achievement Matrix
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20Engineer-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="AI Engineer" />
-  <img src="https://img.shields.io/badge/Open%20Source%20Builder-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=020617&color=1f2937" alt="Open Source Builder" />
-  <img src="https://img.shields.io/badge/District%20Level%20Badminton-082f49?style=for-the-badge&labelColor=0c4a6e&color=155e75" alt="Badminton Athlete" />
-  <img src="https://img.shields.io/badge/Fast%20Learner-0f172a?style=for-the-badge&logo=googlescholar&logoColor=93c5fd&labelColor=020617&color=111827" alt="Fast Learner" />
-  <img src="https://img.shields.io/badge/Full%20Stack%20x%20DevOps%20x%20GenAI-1e1b4b?style=for-the-badge&logo=docker&logoColor=white&labelColor=0f172a&color=312e81" alt="Full Stack DevOps GenAI" />
-</p>
-
-<p align="center">
-  <img src="./assets/neon-divider.svg" alt="Neon divider" width="100%" />
-</p>
-
-## Current Focus
+## Current Build Direction
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <pre lang="txt">&gt; building_now
-- scalable GenAI applications
-- AI automation workflows
-- RAG systems with better retrieval quality
-- developer-first AI products</pre>
+- LLM-powered applications
+- multimodal RAG systems
+- grounded AI agents
+- production-ready FastAPI workflows</pre>
     </td>
     <td width="50%" valign="top">
-      <pre lang="txt">&gt; learning_now
-- Kubernetes in real deployments
-- MLOps patterns and model delivery
-- multimodal AI interfaces
-- system design for AI backends</pre>
+      <pre lang="txt">&gt; going_deeper_on
+- fine-tuning with QLoRA
+- retrieval quality and evaluation
+- structured AI response systems
+- cloud-ready AI product engineering</pre>
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/GenAI%20Apps-In%20Progress-111827?style=for-the-badge&logo=googlegemini&logoColor=93c5fd&labelColor=020617&color=1f2937" alt="GenAI apps" />
-  <img src="https://img.shields.io/badge/Kubernetes-Learning-082f49?style=for-the-badge&logo=kubernetes&logoColor=67e8f9&labelColor=0c4a6e&color=155e75" alt="Kubernetes learning" />
-  <img src="https://img.shields.io/badge/Multimodal%20AI-Exploring-1e1b4b?style=for-the-badge&logo=opencv&logoColor=white&labelColor=0f172a&color=312e81" alt="Multimodal AI" />
-  <img src="https://img.shields.io/badge/RAG%20Systems-Scaling-0f172a?style=for-the-badge&logo=openai&logoColor=7dd3fc&labelColor=020617&color=111827" alt="RAG Systems" />
-</p>
 
 <p align="center">
   <img src="./assets/neon-divider.svg" alt="Neon divider" width="100%" />
@@ -303,25 +356,22 @@ If your project repo or live-demo URLs differ, update the featured project butto
 ## Contact
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-handle/">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/chaitanya-jhindal-636b23289/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-Direct%20Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://your-portfolio.dev/">
-    <img src="https://img.shields.io/badge/Portfolio-Work%20Archive-7C3AED?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://leetcode.com/u/your-leetcode-handle/">
-    <img src="https://img.shields.io/badge/LeetCode-Coding%20Profile-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  <a href="mailto:chaitanyajhindal.fl@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-chaitanyajhindal.fl%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://github.com/ChaitanyaJhindal">
     <img src="https://img.shields.io/badge/GitHub-Open%20Source%20Work-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=020617&color=1f2937" alt="GitHub" />
   </a>
+  <a href="https://x.com/ChaitanyJhindal">
+    <img src="https://img.shields.io/badge/X-@ChaitanyJhindal-0f172a?style=for-the-badge&logo=x&logoColor=white&labelColor=020617&color=111827" alt="X" />
+  </a>
 </p>
 
 <p align="center">
-  Open to AI engineering roles, startup collaborations, open-source builds, and high-signal hackathon teams.
+  Open to Generative AI, applied ML, AI backend, and intelligent systems opportunities.
 </p>
 
 <p align="center">

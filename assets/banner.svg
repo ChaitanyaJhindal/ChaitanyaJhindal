@@ -1,0 +1,134 @@
+<svg width="1280" height="420" viewBox="0 0 1280 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="bannerTitle bannerDesc">
+  <title id="bannerTitle">Chaitanya Jhindal futuristic banner</title>
+  <desc id="bannerDesc">A futuristic cyberpunk banner for Chaitanya Jhindal with neon gradients, AI systems UI motifs, and premium dashboard styling.</desc>
+
+  <defs>
+    <linearGradient id="bgGradient" x1="54" y1="36" x2="1226" y2="384" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#040712" />
+      <stop offset="0.35" stop-color="#081223" />
+      <stop offset="0.7" stop-color="#111B36" />
+      <stop offset="1" stop-color="#081321" />
+    </linearGradient>
+
+    <linearGradient id="frameGradient" x1="90" y1="66" x2="1190" y2="354" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0.45" />
+      <stop offset="0.5" stop-color="#8B5CF6" stop-opacity="0.85" />
+      <stop offset="1" stop-color="#38BDF8" stop-opacity="0.45" />
+    </linearGradient>
+
+    <linearGradient id="accentGradient" x1="120" y1="0" x2="1160" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#22D3EE" />
+      <stop offset="0.5" stop-color="#8B5CF6" />
+      <stop offset="1" stop-color="#38BDF8" />
+    </linearGradient>
+
+    <linearGradient id="scanGradient" x1="0" y1="0" x2="1280" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#000000" stop-opacity="0" />
+      <stop offset="0.45" stop-color="#8B5CF6" stop-opacity="0" />
+      <stop offset="0.5" stop-color="#8B5CF6" stop-opacity="0.32" />
+      <stop offset="0.55" stop-color="#22D3EE" stop-opacity="0" />
+      <stop offset="1" stop-color="#000000" stop-opacity="0" />
+    </linearGradient>
+
+    <pattern id="gridPattern" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M 42 0 L 0 0 0 42" stroke="#1E293B" stroke-width="1" />
+    </pattern>
+
+    <filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="16" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <filter id="sharpGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <radialGradient id="orbPurple" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#A855F7" stop-opacity="0.9" />
+      <stop offset="1" stop-color="#A855F7" stop-opacity="0" />
+    </radialGradient>
+
+    <radialGradient id="orbBlue" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0.9" />
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+
+  <rect width="1280" height="420" rx="28" fill="url(#bgGradient)" />
+  <rect x="22" y="22" width="1236" height="376" rx="24" fill="#050A16" />
+  <rect x="22" y="22" width="1236" height="376" rx="24" stroke="url(#frameGradient)" stroke-width="1.6" />
+  <rect x="22" y="22" width="1236" height="376" rx="24" fill="url(#gridPattern)" opacity="0.28" />
+
+  <circle cx="1050" cy="86" r="96" fill="url(#orbPurple)" filter="url(#softGlow)">
+    <animate attributeName="cx" values="1050;1010;1050" dur="8s" repeatCount="indefinite" />
+    <animate attributeName="cy" values="86;110;86" dur="8s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="1142" cy="286" r="110" fill="url(#orbBlue)" filter="url(#softGlow)">
+    <animate attributeName="cx" values="1142;1100;1142" dur="10s" repeatCount="indefinite" />
+    <animate attributeName="cy" values="286;256;286" dur="10s" repeatCount="indefinite" />
+  </circle>
+
+  <rect x="86" y="70" width="1108" height="280" rx="24" fill="#091121" fill-opacity="0.56" />
+  <rect x="86" y="70" width="1108" height="280" rx="24" stroke="url(#frameGradient)" stroke-opacity="0.52" />
+
+  <rect x="118" y="96" width="184" height="30" rx="15" fill="#0D162A" stroke="#334155" />
+  <circle cx="138" cy="111" r="5" fill="#22D3EE">
+    <animate attributeName="opacity" values="0.45;1;0.45" dur="2.4s" repeatCount="indefinite" />
+  </circle>
+  <text x="154" y="116" fill="#93C5FD" font-family="Segoe UI, Arial, sans-serif" font-size="13" letter-spacing="1.6">SYSTEM READY // GENERATIVE AI</text>
+
+  <text x="118" y="176" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="56" font-weight="700">Chaitanya</text>
+  <text x="118" y="236" fill="url(#accentGradient)" font-family="Segoe UI, Arial, sans-serif" font-size="56" font-weight="700" filter="url(#sharpGlow)">Jhindal</text>
+  <text x="120" y="272" fill="#94A3B8" font-family="Consolas, 'Courier New', monospace" font-size="19">@ChaitanyaJhindal</text>
+  <text x="118" y="306" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="20">LLM applications, multimodal RAG, AI agents, and scalable AI workflows.</text>
+
+  <rect x="118" y="330" width="350" height="10" rx="5" fill="#111827" />
+  <rect x="118" y="330" width="262" height="10" rx="5" fill="url(#accentGradient)" filter="url(#sharpGlow)">
+    <animate attributeName="width" values="220;310;262;290;262" dur="6s" repeatCount="indefinite" />
+  </rect>
+  <text x="118" y="360" fill="#7DD3FC" font-family="Consolas, 'Courier New', monospace" font-size="14">BUILDING PRODUCTION-READY INTELLIGENCE</text>
+
+  <g transform="translate(800 104)">
+    <rect width="320" height="212" rx="22" fill="#08111F" fill-opacity="0.78" stroke="#334155" />
+    <rect x="24" y="20" width="116" height="20" rx="10" fill="#101A2D" stroke="#253247" />
+    <text x="40" y="34" fill="#93C5FD" font-family="Consolas, 'Courier New', monospace" font-size="11" letter-spacing="1.4">GENERATIVE AI DASHBOARD</text>
+
+    <circle cx="240" cy="64" r="38" stroke="#1E293B" stroke-width="10" />
+    <circle cx="240" cy="64" r="38" stroke="url(#accentGradient)" stroke-width="10" stroke-linecap="round" stroke-dasharray="168 76" transform="rotate(-90 240 64)" filter="url(#sharpGlow)">
+      <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="-90 240 64" to="270 240 64" dur="12s" repeatCount="indefinite" />
+    </circle>
+    <text x="224" y="62" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">AI</text>
+    <text x="214" y="80" fill="#94A3B8" font-family="Consolas, 'Courier New', monospace" font-size="10">ONLINE</text>
+
+    <rect x="24" y="64" width="156" height="50" rx="14" fill="#0C1728" stroke="#253247" />
+    <text x="42" y="88" fill="#94A3B8" font-family="Consolas, 'Courier New', monospace" font-size="11">CORE DOMAINS</text>
+    <text x="42" y="106" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">RAG · AGENTS · FINE-TUNING</text>
+
+    <rect x="24" y="128" width="272" height="18" rx="9" fill="#0A1323" />
+    <rect x="24" y="128" width="176" height="18" rx="9" fill="url(#accentGradient)" filter="url(#sharpGlow)">
+      <animate attributeName="width" values="150;214;176;198;176" dur="7s" repeatCount="indefinite" />
+    </rect>
+    <text x="24" y="162" fill="#7DD3FC" font-family="Consolas, 'Courier New', monospace" font-size="12">SYSTEM LOAD // SCALING CREATIVE ENGINEERING</text>
+
+    <g transform="translate(24 182)">
+      <rect width="82" height="18" rx="9" fill="#101A2D" stroke="#273449" />
+      <rect x="94" width="88" height="18" rx="9" fill="#101A2D" stroke="#273449" />
+      <rect x="194" width="86" height="18" rx="9" fill="#101A2D" stroke="#273449" />
+      <text x="16" y="12" fill="#C4B5FD" font-family="Consolas, 'Courier New', monospace" font-size="10">RAG</text>
+      <text x="120" y="12" fill="#7DD3FC" font-family="Consolas, 'Courier New', monospace" font-size="10">DEVOPS</text>
+      <text x="210" y="12" fill="#67E8F9" font-family="Consolas, 'Courier New', monospace" font-size="10">FULL STACK</text>
+    </g>
+  </g>
+
+  <rect x="90" y="382" width="1100" height="2" fill="url(#accentGradient)" opacity="0.6" filter="url(#sharpGlow)" />
+  <rect x="-140" y="0" width="220" height="420" fill="url(#scanGradient)" opacity="0.9">
+    <animate attributeName="x" values="-140;1280" dur="7s" repeatCount="indefinite" />
+  </rect>
+</svg>
